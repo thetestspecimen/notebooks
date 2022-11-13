@@ -1,14 +1,22 @@
 # Stanford Dogs Dataset - Three Breeds
 
-This dataset is a selection of the original [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/), and contains only the images of the following three breeds:
+This dataset is a selection of the original [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/).
+
+It contains two sets, an easy set, and a hard set:
+
+**Hard Set** (Dogs are similar in appearance)
 
 * Border Collie
 * Golden Retriever
 * Labrador Retriever
 
-Each category has exactly 150 examples, and the pictures are of varying dimensions, and separated into named folders.
+**Easy Set** (Dogs have distinctive features)
 
-The two retriever breeds have been selected due to their similarity in appearance to ensure that the dataset is a challenge for any classification problem applied to it.
+* Beagle
+* Giant Schnauzer
+* Malinois
+
+Each category has exactly 150 examples, and the pictures are of varying dimensions, and separated into named folders.
 
 # Data Source
 
