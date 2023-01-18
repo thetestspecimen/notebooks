@@ -1,3 +1,5 @@
+# Stanford Dogs
+
 This dataset is a selection of the original [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/).
 
 It contains two sets, an easy set, and a hard set:
