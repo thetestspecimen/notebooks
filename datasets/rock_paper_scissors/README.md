@@ -1,14 +1,22 @@
 # Rock - Paper - Scissors
 
-This dataset is a selection of the original "rock paper scissors" dataset as detailed in the references section below.
+These datasets are a selection of the original "rock paper scissors" dataset as detailed in the references section below.
 
-The dataset contains a total of **600 images** corresponding to:
+The first dataset (rock_paper_scissors.zip) is intended to be a light balanced dataset and contains a total of **600 images** corresponding to:
 
 * 'Rock' (200 images)
 
 * 'Paper' (200 images)
 
 * 'Scissors' (200 images) 
+
+The second dataset (rock_paper_scissors_712.zip + rock_paper_scissors_712.z01) is intended to be a full, but balanced, dataset and contains a total of **2136 images** corresponding to:
+
+* 'Rock' (712 images)
+
+* 'Paper' (712 images)
+
+* 'Scissors' (712 images) 
 
 All image are taken on a green background with relatively consistent lighting and white balance.
 
