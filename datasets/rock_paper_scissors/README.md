@@ -10,7 +10,7 @@ The first dataset (rock_paper_scissors.zip) is intended to be a light balanced d
 
 * 'Scissors' (200 images) 
 
-The second dataset (rock_paper_scissors_712.zip + rock_paper_scissors_712.z01) is intended to be a full, but balanced, dataset and contains a total of **2136 images** corresponding to:
+The second dataset (rock_paper_scissors_712.7z.001 + rock_paper_scissors_712.7z.002) is intended to be a full, but balanced, dataset and contains a total of **2136 images** corresponding to:
 
 * 'Rock' (712 images)
 
